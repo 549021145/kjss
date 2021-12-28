@@ -64,8 +64,8 @@ public class Arithmetic {
 	}
 	
 	public static void main(String[] args) {
-//		Arithmetic.bubbleSort(a);
+		Arithmetic.bubbleSort(a);
 //		Arithmetic.selectSort(a);
-		Arithmetic.quickSort(a);
+//		Arithmetic.quickSort(a);
 	}
 }
