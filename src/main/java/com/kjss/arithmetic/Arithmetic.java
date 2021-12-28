@@ -1,4 +1,4 @@
-package com.kjss.test;
+package com.kjss.arithmetic;
 
 public class Arithmetic {
 
